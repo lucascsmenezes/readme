@@ -24,6 +24,7 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
   - HTML
   - CSS
   - JavaScript
+  - PHP
   - C++
   - Vue
   - MySQL
